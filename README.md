@@ -2,7 +2,7 @@
 
 #### Looking for the best guide on ReactJs interview questions?
 
-Forget all your worries, you have landed on the Repository that will cover all the frequently asked ReactJs interview questions for freshers and advanced learners.
+Forget all your worries, you have landed on the Repository that will cover 325 frequently asked ReactJs interview questions for freshers and advanced learners.
 
 This interview preparation guide includes all the major concepts of ReactJs that will help you to crack your upcoming interview.
 
