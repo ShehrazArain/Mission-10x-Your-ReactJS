@@ -343,5 +343,3 @@ This interview preparation guide includes all the major concepts of ReactJs that
 |323| [What is the difference between Imperative and Declarative in React?](#what-is-the-difference-between-imperative-and-declarative-in-react)|
 |324| [What are the benefits of using typescript with reactjs?](#what-are-the-benefits-of-using-typescript-with-reactjs)|
 
-## Core React
-
