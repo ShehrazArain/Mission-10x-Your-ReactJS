@@ -1,4 +1,4 @@
-# React Interview Questions & Answers
+# ReactJs Interview Questions & Answers
 
 Looking for the best guide on ReactJs interview questions?
 
