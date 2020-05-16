@@ -28,7 +28,7 @@ This interview preparation guide includes all the major concepts of ReactJs that
 |Q6 | [List some of the major advantages of React?](#what-are-the-major-features-of-react) | Available  |
 |Q7  | [What are the limitations of React?](#what-are-the-major-features-of-react) | Available  |
 |Q8  | [What is JSX?](#what-are-the-major-features-of-react) | Available  |
-|Q9  | [Why can’t Javascript engine read JSX?](#what-are-the-major-features-of-react) | Available  |
+|Q9  | [Why can't Javascript engine read JSX?](#what-are-the-major-features-of-react) | Available  |
 
 
 ### Table of React Component Interview Questions
