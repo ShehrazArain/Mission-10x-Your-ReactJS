@@ -8,11 +8,11 @@ This interview preparation guide includes all the major concepts of ReactJs that
 
  For your ease of access, I have categorized the React interview questions in 5 Categories:
 
-#####1 - Core React Interview Questions 
-#####2 - React Component Interview Questions
-#####3 - React Hooks Interview Questions
-#####4 - React Redux Interview Questions
-#####5 - React Router Interview Questions
+##### 1 - Core React Interview Questions 
+##### 2 - React Component Interview Questions
+##### 3 - React Hooks Interview Questions
+##### 4 - React Redux Interview Questions
+##### 5 - React Router Interview Questions
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
