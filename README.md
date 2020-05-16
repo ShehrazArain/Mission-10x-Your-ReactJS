@@ -8,11 +8,11 @@ This interview preparation guide includes all the major concepts of ReactJs that
 
 ### Table of Contents
 
-| No. | Questions |
-| --- | --------- |
+| No. |Questions| Level |
+| --- | ----- | --- |
 |   | **Core React** |
 |1  | [What is React?](#what-is-react) |
-|2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
+|2  | [What are the main features of React?](#what-are-the-major-features-of-react) |
 |3  | [What is JSX?](#what-is-jsx) |
 |4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
 |5  | [How to create components in React?](#how-to-create-components-in-react) |
